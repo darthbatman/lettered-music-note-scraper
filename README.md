@@ -1,2 +1,2 @@
-# lettered_music_note_scraper
+# lettered-music-note-scraper
 Scrapes lettered music notes from noobnotes.net.
